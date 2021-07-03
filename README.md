@@ -1,6 +1,6 @@
 # Machine Learning Homework - Exoplanet Exploration
 
-![exoplanets.jpg](Images/exoplanets.jpg)
+![exoplanets.jpg](./exoplanets.jpg)
 
 ### Before You Begin
 
@@ -88,12 +88,6 @@ In this homework assignment, you will need to:
 
 * Submit the link to your GitHub project to Bootcamp Spot.
 
-* Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
-
-## Rubric
-
-[Unit 21 Rubric - Machine Learning Homework - Exoplanet Exploration](https://docs.google.com/document/d/1IcLYc8KHt82ftMcsueM6s7rn9nexuN4PqHSJDUa7e2Y/edit?usp=sharing)
 
 - - -
 
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
