@@ -8,11 +8,9 @@
 
 2. Clone the new repository to your computer.
 
-3. Give each model you choose their own Jupyter notebook, **do not use more than one model per notebook.**
+3. Save your best model to a file. This will be the model used to test your accuracy and used for grading.
 
-4. Save your best model to a file. This will be the model used to test your accuracy and used for grading.
-
-5. Commit your Jupyter notebooks and model file and push them to GitHub.
+4. Commit your Jupyter notebooks and model file and push them to GitHub.
 
 ## Note
 
