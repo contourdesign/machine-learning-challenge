@@ -72,15 +72,7 @@ In this homework assignment:
 
 * When hyper-parameter tuning, some models have parameters that depend on each other, and certain combinations will not create a valid model. Be sure to read through any warning messages and check the documentation
 
-- - -
 
-## Submission
-
-* Create a Jupyter Notebook for each model and host the notebooks on GitHub.
-
-* Create a file for your best model and push to GitHub
-
-* Include a README.md file that summarizes your assumptions and findings.
 
 - - -
 
