@@ -30,8 +30,6 @@ In this homework assignment:
 
 - - -
 
-## Instructions
-
 ### Preprocess the Data
 
 * Preprocess the dataset prior to fitting the model.
