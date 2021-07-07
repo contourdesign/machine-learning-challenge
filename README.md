@@ -72,8 +72,6 @@ In this homework assignment:
 
 * When hyper-parameter tuning, some models have parameters that depend on each other, and certain combinations will not create a valid model. Be sure to read through any warning messages and check the documentation
 
-
-
 - - -
 
 
