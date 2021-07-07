@@ -82,7 +82,6 @@ In this homework assignment:
 
 * Include a README.md file that summarizes your assumptions and findings.
 
-* Submit the link to your GitHub project to Bootcamp Spot.
 
 
 - - -
