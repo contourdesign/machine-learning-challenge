@@ -6,7 +6,7 @@
 
 1. Create a new repository for this project called `machine-learning-challenge`. **Do not add this homework to an existing repository**.
 
-2. Clone the new repository to your computer.
+2. Clone the new repository to your computer
 
 3. Save your best model to a file. This will be the model used to test your accuracy and used for grading.
 
