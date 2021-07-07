@@ -3,7 +3,7 @@
 
 ![exoplanets.jpg](./exoplanets.jpg)
 
-### Before You Begin
+### Get Started
 
 1. Create a new repository for this project called `machine-learning-challenge`. 
 
